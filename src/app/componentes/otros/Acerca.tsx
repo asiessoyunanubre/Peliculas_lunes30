@@ -1,7 +1,7 @@
 export const Acerca = ()=>{
     return(
         < >
-        Hola soy Acerca <br />
+        soy Acerca <br />
         Acerca...
     </>
     );
